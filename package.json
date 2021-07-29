@@ -1,0 +1,11 @@
+{
+  "name": "phase-2-code-challenge-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "json-server": "json-server -p 3001 --watch db.json"
+  },
+  "author": "",
+  "license": "ISC"
+}
