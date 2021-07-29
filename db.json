@@ -85,5 +85,18 @@
       "price": 22,
       "id": 17
     }
+  ],
+  "carts": [
+    {
+      "items": [
+        {
+          "name": "Book",
+          "price": 22,
+          "id": 17
+        }
+      ],
+      "total": 22,
+      "id": 1
+    }
   ]
 }
